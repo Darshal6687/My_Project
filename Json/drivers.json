@@ -1,0 +1,52 @@
+[
+  {
+    "driver_id": "DR-001",
+    "name": "John Smith",
+    "contact_number": "+44 7712 345678"
+  },
+  {
+    "driver_id": "DR-002",
+    "name": "Emily Johnson",
+    "contact_number": "+44 7756 234567"
+  },
+  {
+    "driver_id": "DR-003",
+    "name": "Michael Brown",
+    "contact_number": "+44 7709 876543"
+  },
+  {
+    "driver_id": "DR-004",
+    "name": "Olivia Williams",
+    "contact_number": "+44 7790 112233"
+  },
+  {
+    "driver_id": "DR-005",
+    "name": "Daniel Taylor",
+    "contact_number": "+44 7711 445566"
+  },
+  {
+    "driver_id": "DR-006",
+    "name": "Sophie Anderson",
+    "contact_number": "+44 7722 334455"
+  },
+  {
+    "driver_id": "DR-007",
+    "name": "James Wilson",
+    "contact_number": "+44 7788 998877"
+  },
+  {
+    "driver_id": "DR-008",
+    "name": "Charlotte Moore",
+    "contact_number": "+44 7744 223344"
+  },
+  {
+    "driver_id": "DR-009",
+    "name": "Thomas Martin",
+    "contact_number": "+44 7700 889977"
+  },
+  {
+    "driver_id": "DR-010",
+    "name": "Isla Thompson",
+    "contact_number": "+44 7733 556677"
+  }
+]
