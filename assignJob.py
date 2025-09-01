@@ -41,8 +41,8 @@ st.title("📂 Job Planner")
 st.markdown("### Upload Driver and Job CSVs")
 
 # Load sample files
-drivers_sample = pd.read_csv(r"C:\Users\Admin\Downloads\Drivers.csv")
-jobs_sample = pd.read_csv(r"C:\Users\Admin\Downloads\Jobs.csv")
+drivers_sample = pd.read_csv("resources/Drivers.csv")
+jobs_sample = pd.read_csv("resources/Jobs.csv")
 
 # Add download buttons
 st.markdown("#### 📥 Download sample files")
