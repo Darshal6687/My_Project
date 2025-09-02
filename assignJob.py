@@ -36,7 +36,7 @@ load_dotenv()
 client = Groq()
 
 # ----------------- File Uploaders -----------------
-st.title("📂 Job Planner")
+st.title("📂 AI Job Planner")
 
 st.markdown("### Upload Driver and Job CSVs")
 
