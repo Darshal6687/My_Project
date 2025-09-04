@@ -6,6 +6,11 @@ import pandas as pd
 import time
 from transformers import AutoTokenizer
 import re
+import os 
+
+load_dotenv()
+
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # ----------------- Custom CSS -----------------
 st.markdown(
