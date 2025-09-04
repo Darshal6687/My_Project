@@ -101,7 +101,6 @@ if drivers_file is not None and jobs_file is not None:
     default_prompt = "Assign jobs to drivers"
 
     user_prompt = st.text_area("Enter your prompt:", height=200, value=default_prompt)
-
     final_prompt = f"""
     Return ONLY a valid JSON object.
     Do not include explanations.
